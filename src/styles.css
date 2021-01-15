@@ -1,0 +1,71 @@
+body {
+  font-family: arial;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h5 {
+  font-size: 28px;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  line-height: 1;
+}
+
+div.next-day-weather {
+  text-align: center;
+}
+
+i.today-weather-icon {
+  font-size: 70px;
+  margin-right: 10px;
+}
+
+i.next-day-icon {
+  font-size: 30px;
+}
+
+.temperature {
+  font-size: 64px;
+  font-weight: 400px;
+  line-height: 1px;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+}
+
+.weather-app {
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 10px;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+.next-day-weather-box {
+  margin: 20px;
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
+
+.selected-temperature {
+  text-decoration: underline;
+  color: blue;
+}
